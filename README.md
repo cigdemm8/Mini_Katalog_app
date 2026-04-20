@@ -107,5 +107,6 @@ Beklenen yanıt formatı:
 
 ## Geliştirici
 
-Mobil Programlama dersi proje ödevi olarak geliştirilmiştir.  
-Düzce Üniversitesi – Bilgisayar Mühendisliği
+Staj proje ödevi olarak geliştirilmiştir. 
+Çiğdem Şengün
+
