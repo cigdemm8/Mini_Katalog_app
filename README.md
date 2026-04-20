@@ -102,6 +102,8 @@ Beklenen yanıt formatı:
 - Sepet **Singleton pattern** kullanır — oturum boyunca durum korunur.
 - Ürün kategorileri ürün adına göre otomatik belirlenir.
 - Uygulama **Material 3** ve özel Apple temalı renk şeması kullanır.
+- Sürüm:3.41.7
+
 
 ---
 
